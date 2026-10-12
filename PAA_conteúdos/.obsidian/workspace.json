@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "8c9265f68ae20dcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b255344f961910c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2afd765dca6d0a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listas/Lista 01/Lista 01 - Recursão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lista 01 - Recursão"
+            }
+          }
+        ]
+      },
+      {
+        "id": "550ffe38c74871f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ccdb91cf54ca55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algoritmo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algoritmo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51ca8daae3ea1ef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4f48b6ddd8fb578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aed022a73873332",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d4257be6709c39cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "681584cb09392ee9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d479143e9846234e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce556335e2350a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6fc09ebead952b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "7bf767a8cc6a0dfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "23764a906b257e3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d51878154f98fe48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "ff5dfcaa5aa04e7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "d3ccdb91cf54ca55",
+  "lastOpenFiles": [
+    "Listas/Lista 01/Lista 01 - Recursão.md",
+    "array.md",
+    "função.md",
+    "Algoritmo.md",
+    "índice.md",
+    "vetor.md",
+    "complexidade.md",
+    "código iterativo.md",
+    "notação Big-O.md",
+    "Código Recursivo.md",
+    "Análise Assintótica.md",
+    "Recursão.md",
+    "Listas/P1/P1.md",
+    "S1/S1.md",
+    "Listas/Lista 01",
+    "P1",
+    "Listas/P1",
+    "Listas",
+    "Bem-vindo.md",
+    "S1"
+  ]
+}
